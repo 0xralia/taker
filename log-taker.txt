@@ -5572,3 +5572,12 @@
 5/22/2025 | 4:14:15 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 5/22/2025 | 4:14:15 PM | INFO | Trying to activate mining on-chain for wallet: 0x0345dA5305E141AEc956499ef3363a60dFC2a14D 
 5/22/2025 | 4:14:22 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xc66382b98701c2be491f2cfa404edf5236a5700e8571cc16282cb7184eefefdc 
+5/22/2025 | 8:11:15 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/22/2025 | 8:11:16 PM | INFO | Start process for wallet 0x0345dA5305E141AEc956499ef3363a60dFC2a14D 
+5/22/2025 | 8:11:17 PM | INFO | Trying To Login for wallet: 0x0345dA5305E141AEc956499ef3363a60dFC2a14D 
+5/22/2025 | 8:11:17 PM | INFO | Login successful... 
+5/22/2025 | 8:11:17 PM | INFO | Trying to check user info... 
+5/22/2025 | 8:11:18 PM | INFO | User ID: 103168285 | Twitter: @raliasilviani | Total Points: 2088000 
+5/22/2025 | 8:11:18 PM | INFO | Trying to check user miner status... 
+5/22/2025 | 8:11:18 PM | INFO | Last mining time: 5/22/2025, 4:14:21 PM
+5/22/2025 | 8:11:18 PM | WARN | Mining already started, next mining time is: 5/23/2025, 4:14:21 PM
